@@ -20,7 +20,7 @@ This project is a simple inventory management system implemented in C# using WPF
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/<your-username>/8809972_FinalExam.git
+   git clone https://github.com/Rutvik-Gandhi/C-Final-Project.git
 
 Open in Visual Studio:
 
