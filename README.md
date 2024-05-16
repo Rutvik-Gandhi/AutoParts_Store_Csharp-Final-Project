@@ -1,4 +1,4 @@
-# C#-Final-Project
+# Auto_Parts_Store
 
 This project is a simple inventory management system implemented in C# using WPF (Windows Presentation Foundation). It allows users to add, remove, save, and load inventory items. The inventory data is stored in a JSON file format.
 
